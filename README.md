@@ -15,8 +15,8 @@
 
 ---
 
-## 👋 Hello, I'm Nwatu Chinenye
-I am building my career in **cybersecurity**, with a growing focus on **Security Operations, Threat Detection, and Defensive Security**.
+## 👋 Introduction 
+I'm **Nwatu Chinenye**, and I am building my career in **cybersecurity**, with a growing focus on **Security Operations, Threat Detection, and Defensive Security**.
 
 I enjoy learning through practical security labs, analysing security challenges, exploring Linux and cybersecurity tools, and understanding how technology can be used to solve real-world problems.
 
